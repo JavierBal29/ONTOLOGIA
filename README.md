@@ -127,7 +127,7 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-14#Herbivoros"/>
         <rdf:type rdf:resource="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-14#Terrestres"/>
     </owl:NamedIndividual>
-</rdf:RDF>
+     </rdf:RDF>
 
 
 
