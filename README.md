@@ -1,4 +1,4 @@
-# PEQUE-A-ONTOLOG-A
+# ONTOLOGIA MAMIFEROS
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-14#"
      xml:base="http://www.semanticweb.org/javierbalbuena/ontologies/2020/2/untitled-ontology-14"
